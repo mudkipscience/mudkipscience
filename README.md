@@ -1,4 +1,4 @@
-Just a busy bee learning to code for fun 🐝
+## Just a busy bee learning to code for fun 🐝
 
 I know a little bit of Python and a little bit of Javascript! Unfortunately none of these help me to create a real life dragon girlfriend.
 <!--
